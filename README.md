@@ -1,7 +1,9 @@
 # AE-Neural-Net-with-Reactives-agents-NetLogo-
 
 ****************************************************************************************************************
-                                     AE Neural Net with Reactives agents (NetLogo)                                        
+                                     AE Neural Net with Reactives agents (NetLogo)      
+                                          MS Artificial Intelligence                
+                                       UNIVERSITE CLAUDE BERNARD LYON 1
 ****************************************************************************************************************
 
 AUTHORS :
