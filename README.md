@@ -4,7 +4,7 @@
                                      AE Neural Net with Reactives agents (NetLogo)                                        
 ****************************************************************************************************************
 
-Réalisé par :
+AUTHORS :
 
 LUSSIEZ Corentin 
 
