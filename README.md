@@ -14,7 +14,8 @@ EL HADJ MUSTAPHA Mohamed Kais
 DESCRIPTION :
 *********************
 
-Implementation of a simple Auto-encoder Neural Net with reactives agents in NetLogo
+Implementation of a simple Auto-encoder Neural Net with reactives agents in NetLogo.
+A report in available in english.
 
 *********************
 REQUIREMENTS :
